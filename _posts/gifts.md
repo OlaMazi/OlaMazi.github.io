@@ -1,0 +1,25 @@
+![image](https://github.com/OlaMazi/OlaMazi.github.io/assets/141924281/3d3351e6-0e6f-4d9e-9e75-9bb61cb7b091)---
+layout: post
+title: Gifts
+subtitle: Love in the time of post-materialism
+cover-img: /assets/img/lebowski.jpeg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/lebowski.jpeg
+---
+
+Gifts
+=======
+
+We tried 6 different registry sites, all with their nice website designs and percentage cuts, and in the end we realised we were overthinking things. 
+Well....what can we say. We can't - so many of you travelled very far, complicating your lives and spending a lot to do so. So we paraphrase (i.e. blatantly poach from Dan's cousin, with permission): 
+
+{: .box-note}
+**Note:** We know that traditionally you would all like to buy a gift in recognition of our joyous day, however as we have already used up the majority of your creative bandwidth just getting here we would not object to cash gifts.
+
+That said, exactly that. We have more things already than we can move in a weekend, which is new to both of us (and I've got a sizable headstart on Sarah). Mostly we are looking at services, not products -- saving up for the big honeymoon trip (Asia via Asia), fixing the cars inside and out, fixing the pets (mostly inside), and just saving up a warchest for the next major turning point -- will they be short and slender, or tall and round? 
+
+
+If you would like to send money, the easiest way is bank transfer to Dan's Revolut account:
+[https://revolut.me/danielutp](https://revolut.me/danielutp)
+
+Enough jokes. Sincerely, thank you, we love you all.
