@@ -3,8 +3,8 @@ layout: post
 title: Ceremony Update
 subtitle: Finalized, finally, for now
 cover-img: /assets/img/final.jpg
-thumbnail-img: /assets/img/info.jpg
-share-img: /assets/img/info.jpg
+thumbnail-img: /assets/img/info.png
+share-img: /assets/img/info.png
 tags: []
 ---
 
