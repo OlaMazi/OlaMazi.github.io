@@ -7,10 +7,13 @@ share-img: /assets/img/info.png
 tags: []
 ---
 
-UPDATE
+UPDATE -- AGAIN
 ====
-Hi all. We're moving the pre-dinner meal to the 5th to accommodate our relies coming in from Scotland - it just wouldn't be fun without them. 
 
-*Also* - and this is important to remember - the 'pre-dinner' may be just a late lunch, we'd like to play it by ear. No one is asked to come, but if you wanted to have a bite to eat, then we'd say an hour or two somewhere nearby, no obligations, no stress. Some of you have already said you wouldn't be able to make it to a pre-dinner, no worries at all. Enjoy your time!
+So, we've had to push back the late lunch/mezzas to *8ish*. There's not a whole lot of space, but we'll make do - we think you all knows us pretty well :) 
+
+It's just a little square in the middle of the village. There's also a restaurant next to it. If we don't see you there, we'll see you tomorrow!
+
+(we're a little excited...just a little)
 
 
