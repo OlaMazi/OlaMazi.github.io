@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Pre-Dinner Update
-subtitle: Moving to the 5th, small affair
+title: Last Minute Update
+subtitle: Mezzas and beers
 thumbnail-img: /assets/img/info.png
 share-img: /assets/img/info.png
 tags: []
